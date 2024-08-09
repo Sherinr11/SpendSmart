@@ -1,4 +1,3 @@
 # ExpenseTrackerFlutter
-Created an expense tracker in Flutter. One of the first flutter projects that I have created. 
 
-https://github.com/GetRighhttt/ExpenseTrackerFlutter/assets/105057858/b264555f-688b-4840-bf8d-629c4684d877
+The SpendSmart App is designed to help users monitor their daily expenditures with ease. You can categorize your expenses, review spending across various categories, and delete entries if needed. It’s a simple and effective tool for managing and understanding your financial habits.
